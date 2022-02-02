@@ -17,7 +17,7 @@ export default function App() {
         </div>
       </div>
       <div>
-      <div className="text-5xl my-12 mt-20 font-mono text-white text-center">Saya seorang front-end engineer, back-end <br/>engineer, dan juga UI designer</div>
+      <div className="text-5xl my-12 mt-20 font-mono text-white text-center font-sans">Saya seorang front-end engineer, back-end <br/>engineer, dan juga UI designer</div>
       <div className="mt-12 text-2xl text-white text-center opacity-50">Sejak umur 17 tahun saya memulai programming. <br/> Dan baru-baru ini memulai UI designer.</div>
       </div>
       <div className="text-center mt-10">
